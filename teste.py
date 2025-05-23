@@ -5,5 +5,3 @@ st.write("""
 # Vai tomar no cu Grupo bom
 Fabiano Dá o cu pra xandi
 """)
-
-st.image(
